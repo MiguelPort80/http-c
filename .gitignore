@@ -1,6 +1,7 @@
 #arquivos pessoais
 *.swp
 tags
+www/*
 
 # Prerequisites
 *.d
